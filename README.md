@@ -1,1 +1,2 @@
-# face_detection
+# face_detection 
+face detection using c++ and opencv
